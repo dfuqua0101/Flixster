@@ -22,7 +22,7 @@ App that congregates a list of current feature films in movie theaters
 
 ### App Walkthough GIF
 
-<img src="YOUR_GIF_URL_HERE" width=250><br>
+<img src="FlixsterDemo.gif" width=250><br>
 
 ### Notes
 Describe any challenges encountered while building the app.
